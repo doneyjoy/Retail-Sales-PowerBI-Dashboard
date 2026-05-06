@@ -1,8 +1,10 @@
-#  Retail Sales Dashboard – Executive Overview
+## Retail Sales Analytics Dashboard (Power BI) – Executive Overview
 
 ##  Overview
 
 This project presents an executive-level sales dashboard built in Power BI, focused on high-level business performance metrics and trends.
+
+This dashboard helps stakeholders quickly monitor revenue performance, identify trends, and make data-driven decisions.
 
 ---
 
@@ -25,9 +27,9 @@ This project presents an executive-level sales dashboard built in Power BI, focu
 
 ## Tools Used
 
-* Power BI
-* DAX (Data Analysis Expressions)
-* Data Modeling
+- Power BI  
+- DAX (KPIs, Time Intelligence, Aggregations)  
+- Data Modeling (Star Schema) 
 
 ---
 
